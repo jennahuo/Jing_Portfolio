@@ -32,7 +32,7 @@ Aug. 2019 – By now, major Computer Science in Borough of Manhattan Community C
 
 2016 – 2018, worked in Longfor Properties Co. Ltd (TOP 500)
 
-Feb.2020 – By now, join in Project, Door-Front Sidewalk for Disabled
+Feb.2020 – By now, join in Project, Door-Front Sidewalk for Disabled People
 
 June. 2020, BMCC-Rutgers Data Analytics workshop
 
