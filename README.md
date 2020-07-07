@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Resume
 
-You can use the [editor on GitHub](https://github.com/jennahuo/Jing_Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal Information
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Name: Jing HUO
 
-```markdown
-Syntax highlighted code block
+Language: Mandarin & English（IELTS6.5）& French (beginner)
 
-# Header 1
-## Header 2
-### Header 3
+Contact: 347-407-0524
 
-- Bulleted
-- List
+Email: jennahuo1993@gmail.com
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Education Background
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Sept 2011 – July 2015, major Economics in Tianjin University of Finance & Economics
 
-### Jekyll Themes
+Sept.2014 – Dec 2014, exchange student in Universite Catholique de Lyon
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jennahuo/Jing_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Aug. 2018 – Aug. 2019, ELS center in Fairleigh Dickson University
 
-### Support or Contact
+Aug. 2019 – By now, major Computer Science in Borough of Manhattan Community College
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Experiences and Achievements
+
+
+2015 Best graduate, International Economics and Trades Department in TUFE
+
+2016 – 2018, worked in Longfor Properties Co. Ltd (TOP 500)
+
+Feb.2020 – By now, join in Project, Door-Front Sidewalk for Disabled
+
+June. 2020, BMCC-Rutgers Data Analytics workshop
+
+
+
+
